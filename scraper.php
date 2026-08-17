@@ -41,6 +41,17 @@ $filtered_data = array_filter($data, function ($match) use ($allowed_leagues) {
 // Reset array keys to ensure it's a JSON array and not a JSON object
 $filtered_data = array_values($filtered_data);
 
+// Convert match_time to GMT+7 (subtracting 1 hour assuming original is GMT+8)
+foreach ($filtered_data as &$match) {
+    if (isset($match['match_time'])) {
+        $timestamp = strtotime($match['match_time']);
+        // Subtract 1 hour (3600 seconds)
+        $adjusted_timestamp = $timestamp - 3600;
+        $match['match_time'] = date('Y-m-d H:i:s', $adjusted_timestamp);
+    }
+}
+unset($match); // Break the reference
+
 // Output the filtered JSON
 echo json_encode($filtered_data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
 
