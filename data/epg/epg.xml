@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+<channel id="4614072">
+  <display-name>Bali United vs Persib Bandung</display-name>
+</channel>
+<programme start="20260818190000 +0700" stop="20260818210000 +0700" channel="4614072">
+  <title>Bali United vs Persib Bandung</title>
+</programme>
+<channel id="4612552">
+  <display-name>Thailand vs Singapore</display-name>
+</channel>
+<programme start="20260818200000 +0700" stop="20260818220000 +0700" channel="4612552">
+  <title>Thailand vs Singapore</title>
+</programme>
+</tv>
