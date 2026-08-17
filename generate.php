@@ -100,8 +100,8 @@ XML;
 
 $xml .= "</tv>";
 
-file_put_contents('data/playlists/playlist.m3u8', $m3u);
-file_put_contents('data/epg/epg.xml', $xml);
+file_put_contents('data/playlists/oneball.m3u8', $m3u);
+file_put_contents('data/epg/oneball_epg.xml', $xml);
 
 echo "Playlist & EPG generated successfully.\n";
 
