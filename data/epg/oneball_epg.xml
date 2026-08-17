@@ -12,4 +12,16 @@
 <programme start="20260818200000 +0700" stop="20260818220000 +0700" channel="4612552">
   <title>Thailand vs Singapore</title>
 </programme>
+<channel id="4610650">
+  <display-name>1. FC Heidenheim 1846 vs FC Bayern Munich</display-name>
+</channel>
+<programme start="20260818230000 +0700" stop="20260819010000 +0700" channel="4610650">
+  <title>1. FC Heidenheim 1846 vs FC Bayern Munich</title>
+</programme>
+<channel id="4612553">
+  <display-name>Vietnam vs Malaysia</display-name>
+</channel>
+<programme start="20260819200000 +0700" stop="20260819220000 +0700" channel="4612553">
+  <title>Vietnam vs Malaysia</title>
+</programme>
 </tv>
