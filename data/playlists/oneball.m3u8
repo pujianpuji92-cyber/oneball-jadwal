@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4614072" group-title="#2. LIVE EVENT",Bali United vs Persib Bandung
+#EXTINF:-1 tvg-id="4612553" group-title="#2. LIVE EVENT",Vietnam vs Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://web.liveplayer.eu/
 #EXTVLCOPT:http-origin=https://web.liveplayer.eu
-https://hls.live123.fans/live/4614072.m3u8
-#EXTINF:-1 tvg-id="4612552" group-title="#2. LIVE EVENT",Thailand vs Singapore
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://web.liveplayer.eu/
-#EXTVLCOPT:http-origin=https://web.liveplayer.eu
-https://hls.live123.fans/live/4612552.m3u8
+https://hls.live123.fans/live/4612553.m3u8
