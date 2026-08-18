@@ -25,6 +25,9 @@ jobs:
       - name: Run Generator Script
         run: php generate.php
 
+      - name: Merge playlist into oneball.html
+        run: php merge_to_html.php
+
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
