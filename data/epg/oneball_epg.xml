@@ -6,4 +6,10 @@
 <programme start="20260819200000 +0700" stop="20260819220000 +0700" channel="4612553">
   <title>Vietnam vs Malaysia</title>
 </programme>
+<channel id="4620765">
+  <display-name>CD Alaves Women vs Eibar Women</display-name>
+</channel>
+<programme start="20260820000000 +0700" stop="20260820020000 +0700" channel="4620765">
+  <title>CD Alaves Women vs Eibar Women</title>
+</programme>
 </tv>
