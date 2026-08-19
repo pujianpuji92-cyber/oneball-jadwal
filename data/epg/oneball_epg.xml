@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="4612553">
-  <display-name>Vietnam vs Malaysia</display-name>
-</channel>
-<programme start="20260819200000 +0700" stop="20260819220000 +0700" channel="4612553">
-  <title>Vietnam vs Malaysia</title>
-</programme>
-<channel id="4620901">
-  <display-name>Sakaryaspor vs Sabail FC</display-name>
-</channel>
-<programme start="20260819210000 +0700" stop="20260819230000 +0700" channel="4620901">
-  <title>Sakaryaspor vs Sabail FC</title>
-</programme>
 <channel id="4620765">
   <display-name>CD Alaves Women vs Eibar Women</display-name>
 </channel>
