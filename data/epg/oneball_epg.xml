@@ -6,4 +6,10 @@
 <programme start="20260822200000 +0700" stop="20260822220000 +0700" channel="4622587">
   <title>Thailand vs Vietnam</title>
 </programme>
+<channel id="4620864">
+  <display-name>AEL Limassol vs Aris Limassol</display-name>
+</channel>
+<programme start="20260822230000 +0700" stop="20260823010000 +0700" channel="4620864">
+  <title>AEL Limassol vs Aris Limassol</title>
+</programme>
 </tv>
