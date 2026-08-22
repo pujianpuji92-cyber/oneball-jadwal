@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="4558451">
-  <display-name>Hull City vs Manchester United</display-name>
-</channel>
-<programme start="20260822183000 +0700" stop="20260822203000 +0700" channel="4558451">
-  <title>Hull City vs Manchester United</title>
-</programme>
 <channel id="4622587">
   <display-name>Thailand vs Vietnam</display-name>
 </channel>
