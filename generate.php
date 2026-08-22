@@ -90,8 +90,8 @@ foreach ($filtered_data as $match) {
     $m3u .= <<<M3U
 #EXTINF:-1 tvg-id="{$id}" group-title="#2. LIVE EVENT",{$title}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://web.liveplayer.eu/
-#EXTVLCOPT:http-origin=https://web.liveplayer.eu
+#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
+#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
 {$stream_url}
 
 M3U;
