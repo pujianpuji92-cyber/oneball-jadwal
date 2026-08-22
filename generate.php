@@ -57,10 +57,29 @@ foreach ($filtered_data as $match) {
     $id = $match['nami_id'];
     $title = "{$match['home_team']} vs {$match['away_team']}";
 
-    // Assuming we want the first signal URL
+    // Prioritize HD-J, then fallback to HD-K, then fallback to the first available URL
     $stream_url = '';
     if (isset($match['signals']) && is_array($match['signals']) && count($match['signals']) > 0) {
-        $stream_url = $match['signals'][0]['url'];
+        $hd_j_url = '';
+        $hd_k_url = '';
+
+        foreach ($match['signals'] as $signal) {
+            if ($signal['label'] === 'HD-J') {
+                $hd_j_url = $signal['url'];
+                break; // Highest priority found, stop looking
+            } elseif ($signal['label'] === 'HD-K') {
+                $hd_k_url = $signal['url'];
+            }
+        }
+
+        if (!empty($hd_j_url)) {
+            $stream_url = $hd_j_url;
+        } elseif (!empty($hd_k_url)) {
+            $stream_url = $hd_k_url;
+        } else {
+            // Fallback to the first signal if neither HD-J nor HD-K is found
+            $stream_url = $match['signals'][0]['url'];
+        }
     }
 
     if (empty($stream_url)) {
