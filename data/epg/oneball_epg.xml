@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="4624045">
+  <display-name>Rans Nusantara FC vs Arema FC</display-name>
+</channel>
+<programme start="20260822153000 +0700" stop="20260822173000 +0700" channel="4624045">
+  <title>Rans Nusantara FC vs Arema FC</title>
+</programme>
 <channel id="4622587">
   <display-name>Thailand vs Vietnam</display-name>
 </channel>
