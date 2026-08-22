@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="4558461">
-  <display-name>Brentford vs Tottenham Hotspur</display-name>
-</channel>
-<programme start="20260822233000 +0700" stop="20260823013000 +0700" channel="4558461">
-  <title>Brentford vs Tottenham Hotspur</title>
-</programme>
 <channel id="4558465">
   <display-name>Brighton Hove Albion vs Aston Villa</display-name>
 </channel>
