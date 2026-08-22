@@ -3,22 +3,22 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
 #EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://live.kinxie.com/live/73237470_c10815907429c9fb3208380a8f4c0c9c_1080p.m3u8?auth_key=1787419974-0-0-7b3ccca2443a4aaafe3d7103e8bcb878
+https://live1.kinxie.com/live/73865524_87f16742ecabff980a5f15f258d94638_1080p.m3u8?auth_key=1787423446-0-0-1ddda3061b300b02647b7c587e7048eb
 #EXTINF:-1 tvg-id="4558452" group-title="#2. LIVE EVENT",Everton vs Crystal Palace
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
 #EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://hls.live123.fans/live/4558452.m3u8
+https://live1.kinxie.com/live/72221158_2e7d8116ae3acc9c873f24f47366795c_1080p.m3u8?auth_key=1787424369-0-0-b687295e4970bc8b12c7d62649164f6f
 #EXTINF:-1 tvg-id="4558454" group-title="#2. LIVE EVENT",Ipswich Town vs Sunderland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
 #EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://hls.live123.fans/live/4558454.m3u8
+https://live2.kinxie.com/live/72221160_b771b86c631a1129dabb011f0871a43e_1080p.m3u8?auth_key=1787424369-0-0-13361d96873fa1107bda0336dd9b8d6a
 #EXTINF:-1 tvg-id="4558457" group-title="#2. LIVE EVENT",Nottingham Forest vs Leeds United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
 #EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://hls.live123.fans/live/4558457.m3u8
+https://live.kinxie.com/live/72221162_b29a951161b6b70b0ffe30109a22def5_1080p.m3u8?auth_key=1787424368-0-0-1f0f0880b595cc6cfc0b13461d94a85d
 #EXTINF:-1 tvg-id="4558461" group-title="#2. LIVE EVENT",Brentford vs Tottenham Hotspur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
