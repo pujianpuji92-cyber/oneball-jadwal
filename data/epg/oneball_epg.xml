@@ -1,23 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="4558452">
-  <display-name>Everton vs Crystal Palace</display-name>
-</channel>
-<programme start="20260822210000 +0700" stop="20260822230000 +0700" channel="4558452">
-  <title>Everton vs Crystal Palace</title>
-</programme>
-<channel id="4558454">
-  <display-name>Ipswich Town vs Sunderland</display-name>
-</channel>
-<programme start="20260822210000 +0700" stop="20260822230000 +0700" channel="4558454">
-  <title>Ipswich Town vs Sunderland</title>
-</programme>
-<channel id="4558457">
-  <display-name>Nottingham Forest vs Leeds United</display-name>
-</channel>
-<programme start="20260822210000 +0700" stop="20260822230000 +0700" channel="4558457">
-  <title>Nottingham Forest vs Leeds United</title>
-</programme>
 <channel id="4558461">
   <display-name>Brentford vs Tottenham Hotspur</display-name>
 </channel>
