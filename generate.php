@@ -26,7 +26,7 @@ if (!is_array($data)) {
 // Leagues to filter by
 $allowed_leagues = [
     'ASEAN Championship',
-    'International Club Friendly'
+    'English Premier League'
 ];
 
 // Filter the data
