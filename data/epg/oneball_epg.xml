@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="4558465">
-  <display-name>Brighton Hove Albion vs Aston Villa</display-name>
-</channel>
-<programme start="20260823200000 +0700" stop="20260823220000 +0700" channel="4558465">
-  <title>Brighton Hove Albion vs Aston Villa</title>
-</programme>
-<channel id="4558470">
-  <display-name>Manchester City vs Bournemouth AFC</display-name>
-</channel>
-<programme start="20260823200000 +0700" stop="20260823220000 +0700" channel="4558470">
-  <title>Manchester City vs Bournemouth AFC</title>
-</programme>
 <channel id="4558473">
   <display-name>Newcastle United vs Liverpool</display-name>
 </channel>
