@@ -1,9 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="4558473">
-  <display-name>Newcastle United vs Liverpool</display-name>
-</channel>
-<programme start="20260823223000 +0700" stop="20260824003000 +0700" channel="4558473">
-  <title>Newcastle United vs Liverpool</title>
-</programme>
 </tv>
