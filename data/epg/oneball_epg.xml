@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="4622607">
+  <display-name>Vietnam vs Thailand</display-name>
+</channel>
+<programme start="20260826200000 +0700" stop="20260826220000 +0700" channel="4622607">
+  <title>Vietnam vs Thailand</title>
+</programme>
 </tv>
