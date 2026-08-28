@@ -18,4 +18,10 @@
 <programme start="20260829210000 +0700" stop="20260829230000 +0700" channel="4558490">
   <title>Coventry City vs Hull City</title>
 </programme>
+<channel id="4558502">
+  <display-name>Manchester United vs Ipswich Town</display-name>
+</channel>
+<programme start="20260830223000 +0700" stop="20260831003000 +0700" channel="4558502">
+  <title>Manchester United vs Ipswich Town</title>
+</programme>
 </tv>

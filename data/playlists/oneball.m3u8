@@ -3,14 +3,19 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
 #EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://pul-tenm.gkykp.com/live/hd-en-1-4558499.m3u8?txSecret=7186f12491a15d167a434d759ab3b216&txTime=6A92DF51
+https://pul-tenm.gkykp.com/live/hd-en-1-4558499.m3u8?txSecret=2208db75d2058a1252effac6905c9c2f&txTime=6A9367B9
 #EXTINF:-1 tvg-id="4558483" group-title="#2. LIVE EVENT",Bournemouth AFC vs Everton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
 #EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://pul-tenm.gkykp.com/live/hd-en-1-4558483.m3u8?txSecret=799f71dce42b0758002c3802f204864e&txTime=6A92DF51
+https://pul-tenm.gkykp.com/live/hd-en-1-4558483.m3u8?txSecret=9be628d994ef0bddcef44fce3d27f198&txTime=6A9367B9
 #EXTINF:-1 tvg-id="4558490" group-title="#2. LIVE EVENT",Coventry City vs Hull City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
 #EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://pul-tenm.gkykp.com/live/hd-en-1-4558490.m3u8?txSecret=fcc18dfc66190df475ec945298f38d83&txTime=6A92DF51
+https://pul-tenm.gkykp.com/live/hd-en-1-4558490.m3u8?txSecret=42b2ce954db44d2cafebaf90530a2897&txTime=6A9367B9
+#EXTINF:-1 tvg-id="4558502" group-title="#2. LIVE EVENT",Manchester United vs Ipswich Town
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
+#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
+https://pul-tenm.gkykp.com/live/hd-en-1-4558502.m3u8?txSecret=8f7f831c7613fe1bccab33e353a1b1af&txTime=6A9367B9
