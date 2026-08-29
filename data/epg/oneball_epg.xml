@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="4558499">
-  <display-name>Liverpool vs Nottingham Forest</display-name>
+<channel id="4558505">
+  <display-name>Tottenham Hotspur vs Newcastle United</display-name>
 </channel>
-<programme start="20260829183000 +0700" stop="20260829203000 +0700" channel="4558499">
-  <title>Liverpool vs Nottingham Forest</title>
-</programme>
-<channel id="4558483">
-  <display-name>Bournemouth AFC vs Everton</display-name>
-</channel>
-<programme start="20260829210000 +0700" stop="20260829230000 +0700" channel="4558483">
-  <title>Bournemouth AFC vs Everton</title>
-</programme>
-<channel id="4558490">
-  <display-name>Coventry City vs Hull City</display-name>
-</channel>
-<programme start="20260829210000 +0700" stop="20260829230000 +0700" channel="4558490">
-  <title>Coventry City vs Hull City</title>
+<programme start="20260829233000 +0700" stop="20260830013000 +0700" channel="4558505">
+  <title>Tottenham Hotspur vs Newcastle United</title>
 </programme>
 <channel id="4558502">
   <display-name>Manchester United vs Ipswich Town</display-name>
