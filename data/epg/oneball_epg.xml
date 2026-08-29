@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="4558485">
+  <display-name>Chelsea vs Brighton Hove Albion</display-name>
+</channel>
+<programme start="20260830200000 +0700" stop="20260830220000 +0700" channel="4558485">
+  <title>Chelsea vs Brighton Hove Albion</title>
+</programme>
+<channel id="4558496">
+  <display-name>Leeds United vs Brentford</display-name>
+</channel>
+<programme start="20260830200000 +0700" stop="20260830220000 +0700" channel="4558496">
+  <title>Leeds United vs Brentford</title>
+</programme>
+<channel id="4558503">
+  <display-name>Sunderland vs Fulham</display-name>
+</channel>
+<programme start="20260830200000 +0700" stop="20260830220000 +0700" channel="4558503">
+  <title>Sunderland vs Fulham</title>
+</programme>
 <channel id="4558502">
   <display-name>Manchester United vs Ipswich Town</display-name>
 </channel>
