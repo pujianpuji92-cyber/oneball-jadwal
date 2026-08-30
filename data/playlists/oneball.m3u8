@@ -1,21 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4558485" group-title="#2. LIVE EVENT",Chelsea vs Brighton Hove Albion
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
-#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://pul-tenm.gkykp.com/live/hd-en-1-4558485.m3u8?txSecret=f3a6705708cb821ff443e9fa6492d06e&txTime=6A9572D9
-#EXTINF:-1 tvg-id="4558496" group-title="#2. LIVE EVENT",Leeds United vs Brentford
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
-#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://pul-tenm.gkykp.com/live/hd-en-1-4558496.m3u8?txSecret=8695ee2fcc4140d0007aa8106f73b3ba&txTime=6A9572D9
-#EXTINF:-1 tvg-id="4558503" group-title="#2. LIVE EVENT",Sunderland vs Fulham
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
-#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://pul-tenm.gkykp.com/live/hd-en-1-4558503.m3u8?txSecret=6ca3446eabd4922e196fe6e283ded8b7&txTime=6A9572D9
 #EXTINF:-1 tvg-id="4558502" group-title="#2. LIVE EVENT",Manchester United vs Ipswich Town
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
 #EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://pul-tenm.gkykp.com/live/hd-en-1-4558502.m3u8?txSecret=1605371814166b4c6f982e2bbb2fed29&txTime=6A9572D9
+https://live5.ftlcbx.com/live/oj7x9ixjlrmc47g_fcd49faacff83eed036f839dfae73637_1080p.m3u8?auth_key=1788123787-0-0-061ce24deb0df769146c71d7bd72c91e
