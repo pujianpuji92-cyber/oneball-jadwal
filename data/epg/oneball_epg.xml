@@ -1,9 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="4558502">
-  <display-name>Manchester United vs Ipswich Town</display-name>
-</channel>
-<programme start="20260830223000 +0700" stop="20260831003000 +0700" channel="4558502">
-  <title>Manchester United vs Ipswich Town</title>
-</programme>
 </tv>
