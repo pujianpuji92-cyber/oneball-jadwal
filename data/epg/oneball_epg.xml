@@ -1,9 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="4558480">
-  <display-name>Aston Villa vs Arsenal</display-name>
-</channel>
-<programme start="20260901020000 +0700" stop="20260901040000 +0700" channel="4558480">
-  <title>Aston Villa vs Arsenal</title>
-</programme>
 </tv>
