@@ -1,9 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="4558526">
-  <display-name>Ipswich Town vs Liverpool</display-name>
+<channel id="4558529">
+  <display-name>Newcastle United vs Bournemouth AFC</display-name>
 </channel>
-<programme start="20260905020000 +0700" stop="20260905040000 +0700" channel="4558526">
-  <title>Ipswich Town vs Liverpool</title>
+<programme start="20260905183000 +0700" stop="20260905203000 +0700" channel="4558529">
+  <title>Newcastle United vs Bournemouth AFC</title>
+</programme>
+<channel id="4558517">
+  <display-name>Brentford vs Sunderland</display-name>
+</channel>
+<programme start="20260905210000 +0700" stop="20260905230000 +0700" channel="4558517">
+  <title>Brentford vs Sunderland</title>
+</programme>
+<channel id="4558519">
+  <display-name>Brighton Hove Albion vs Leeds United</display-name>
+</channel>
+<programme start="20260905210000 +0700" stop="20260905230000 +0700" channel="4558519">
+  <title>Brighton Hove Albion vs Leeds United</title>
+</programme>
+<channel id="4558523">
+  <display-name>Fulham vs Crystal Palace</display-name>
+</channel>
+<programme start="20260905210000 +0700" stop="20260905230000 +0700" channel="4558523">
+  <title>Fulham vs Crystal Palace</title>
+</programme>
+<channel id="4558527">
+  <display-name>Manchester City vs Coventry City</display-name>
+</channel>
+<programme start="20260905210000 +0700" stop="20260905230000 +0700" channel="4558527">
+  <title>Manchester City vs Coventry City</title>
+</programme>
+<channel id="4558533">
+  <display-name>Nottingham Forest vs Tottenham Hotspur</display-name>
+</channel>
+<programme start="20260905210000 +0700" stop="20260905230000 +0700" channel="4558533">
+  <title>Nottingham Forest vs Tottenham Hotspur</title>
 </programme>
 </tv>
