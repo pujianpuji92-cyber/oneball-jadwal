@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="4558526">
+  <display-name>Ipswich Town vs Liverpool</display-name>
+</channel>
+<programme start="20260905020000 +0700" stop="20260905040000 +0700" channel="4558526">
+  <title>Ipswich Town vs Liverpool</title>
+</programme>
 </tv>

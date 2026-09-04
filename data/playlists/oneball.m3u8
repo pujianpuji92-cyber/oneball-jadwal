@@ -1,1 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="4558526" group-title="#2. LIVE EVENT",Ipswich Town vs Liverpool
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
+#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
+https://pul-tenm.gkykp.com/live/hd-en-1-4558526.m3u8?txSecret=3f6ff78c4669eb8a6d61a92144e7bb71&txTime=6A9C2858
