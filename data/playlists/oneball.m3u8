@@ -1,36 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4558529" group-title="#2. LIVE EVENT",Newcastle United vs Bournemouth AFC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
-#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://live.ftlcbx.com/live/69456578_9fe85227ee040459c0ea2daf9692d9b1_1080p.m3u8?auth_key=1788627582-0-0-d733e0ceb64c9b2230333e556cf525b9
-#EXTINF:-1 tvg-id="4558517" group-title="#2. LIVE EVENT",Brentford vs Sunderland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
-#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://pul-tenm.gkykp.com/live/hd-en-1-4558517.m3u8?txSecret=60b1ade3db0a3018c227c71add682052&txTime=6A9D6359
-#EXTINF:-1 tvg-id="4558519" group-title="#2. LIVE EVENT",Brighton Hove Albion vs Leeds United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
-#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://pul-tenm.gkykp.com/live/hd-en-1-4558519.m3u8?txSecret=7ff5a01eff533344ba8bef1cab58a9cb&txTime=6A9D6359
-#EXTINF:-1 tvg-id="4558523" group-title="#2. LIVE EVENT",Fulham vs Crystal Palace
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
-#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://pul-tenm.gkykp.com/live/hd-en-1-4558523.m3u8?txSecret=34f063d6060a88c8f1fdda799f5305b5&txTime=6A9D6359
-#EXTINF:-1 tvg-id="4558527" group-title="#2. LIVE EVENT",Manchester City vs Coventry City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
-#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://pul-tenm.gkykp.com/live/hd-en-1-4558527.m3u8?txSecret=08ae24b797e82a0fdd64869cfac8105d&txTime=6A9D6359
-#EXTINF:-1 tvg-id="4558533" group-title="#2. LIVE EVENT",Nottingham Forest vs Tottenham Hotspur
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
-#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://pul-tenm.gkykp.com/live/hd-en-1-4558533.m3u8?txSecret=b4751940b09ccfe0b495943602b69268&txTime=6A9D6359
 #EXTINF:-1 tvg-id="4558525" group-title="#2. LIVE EVENT",Hull City vs Aston Villa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
 #EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://pul-tenm.gkykp.com/live/hd-en-1-4558525.m3u8?txSecret=39206e0108b2d1abb48d973d76628c8f&txTime=6A9D6359
+https://pul-tenm.gkykp.com/live/hd-en-1-4558525.m3u8?txSecret=215b31631f5ebb85c70c050a7854c9e2&txTime=6A9D92B0
