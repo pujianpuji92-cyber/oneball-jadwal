@@ -1,9 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="4558525">
-  <display-name>Hull City vs Aston Villa</display-name>
-</channel>
-<programme start="20260905233000 +0700" stop="20260906013000 +0700" channel="4558525">
-  <title>Hull City vs Aston Villa</title>
-</programme>
 </tv>
