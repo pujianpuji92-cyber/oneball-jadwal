@@ -1,1 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="4558521" group-title="#2. LIVE EVENT",Everton vs Manchester United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
+#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
+https://pul-tenm.gkykp.com/live/hd-en-1-4558521.m3u8?txSecret=2fd414132444cd6e591bd3516dcaf2dc&txTime=6A9E89B9

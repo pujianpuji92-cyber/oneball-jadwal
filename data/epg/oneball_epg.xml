@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="4558521">
+  <display-name>Everton vs Manchester United</display-name>
+</channel>
+<programme start="20260906200000 +0700" stop="20260906220000 +0700" channel="4558521">
+  <title>Everton vs Manchester United</title>
+</programme>
 </tv>
