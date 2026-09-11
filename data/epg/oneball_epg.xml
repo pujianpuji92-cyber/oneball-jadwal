@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="4558539">
+  <display-name>Coventry City vs Brighton Hove Albion</display-name>
+</channel>
+<programme start="20260913200000 +0700" stop="20260913220000 +0700" channel="4558539">
+  <title>Coventry City vs Brighton Hove Albion</title>
+</programme>
 </tv>
