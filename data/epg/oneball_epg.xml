@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="4558551">
-  <display-name>Tottenham Hotspur vs Everton</display-name>
-</channel>
-<programme start="20260912233000 +0700" stop="20260913013000 +0700" channel="4558551">
-  <title>Tottenham Hotspur vs Everton</title>
-</programme>
 <channel id="4558550">
   <display-name>Sunderland vs Arsenal</display-name>
 </channel>
