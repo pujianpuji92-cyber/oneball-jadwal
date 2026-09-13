@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4558539" group-title="#2. LIVE EVENT",Coventry City vs Brighton Hove Albion
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
-#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://live2.dyrur1.com/live/72221258_5d6e1ec22a067ec935f8f8606ac6ac7a_1080p.m3u8?auth_key=1789318445-0-0-99125d9b738af395edbbd8409a253506
 #EXTINF:-1 tvg-id="4558548" group-title="#2. LIVE EVENT",Manchester United vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
 #EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://pul-tenm.gkykp.com/live/hd-en-1-4558548.m3u8?txSecret=c27107fd63d72dace37dc75e1372c2f7&txTime=6AA7EE69
+https://live.dyrur1.com/live/72221266_98fd837dd113b918511e105d84b9cfab_1080p.m3u8?auth_key=1789332413-0-0-9418f20d39a12eb845677ee612ca902a
