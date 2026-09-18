@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="4558557">
-  <display-name>Brentford vs Chelsea</display-name>
-</channel>
-<programme start="20260919020000 +0700" stop="20260919040000 +0700" channel="4558557">
-  <title>Brentford vs Chelsea</title>
-</programme>
 <channel id="4558577">
   <display-name>Tottenham Hotspur vs Aston Villa</display-name>
 </channel>
