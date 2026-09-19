@@ -1,9 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="4558576">
-  <display-name>Nottingham Forest vs Coventry City</display-name>
-</channel>
-<programme start="20260919233000 +0700" stop="20260920013000 +0700" channel="4558576">
-  <title>Nottingham Forest vs Coventry City</title>
-</programme>
 </tv>
