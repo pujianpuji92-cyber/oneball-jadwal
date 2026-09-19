@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="4558577">
-  <display-name>Tottenham Hotspur vs Aston Villa</display-name>
+<channel id="4558560">
+  <display-name>Brighton Hove Albion vs Arsenal</display-name>
 </channel>
-<programme start="20260919183000 +0700" stop="20260919203000 +0700" channel="4558577">
-  <title>Tottenham Hotspur vs Aston Villa</title>
+<programme start="20260919210000 +0700" stop="20260919230000 +0700" channel="4558560">
+  <title>Brighton Hove Albion vs Arsenal</title>
+</programme>
+<channel id="4558562">
+  <display-name>Everton vs Ipswich Town</display-name>
+</channel>
+<programme start="20260919210000 +0700" stop="20260919230000 +0700" channel="4558562">
+  <title>Everton vs Ipswich Town</title>
+</programme>
+<channel id="4558575">
+  <display-name>Newcastle United vs Hull City</display-name>
+</channel>
+<programme start="20260919210000 +0700" stop="20260919230000 +0700" channel="4558575">
+  <title>Newcastle United vs Hull City</title>
 </programme>
 </tv>
