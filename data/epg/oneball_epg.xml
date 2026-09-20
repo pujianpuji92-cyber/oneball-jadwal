@@ -1,9 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="4558565">
-  <display-name>Fulham vs Manchester United</display-name>
-</channel>
-<programme start="20260920223000 +0700" stop="20260921003000 +0700" channel="4558565">
-  <title>Fulham vs Manchester United</title>
-</programme>
 </tv>
