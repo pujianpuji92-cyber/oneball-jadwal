@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+<channel id="4558579">
+  <display-name>Arsenal vs Leeds United</display-name>
+</channel>
+<programme start="20261010183000 +0700" stop="20261010203000 +0700" channel="4558579">
+  <title>Arsenal vs Leeds United</title>
+</programme>
 </tv>

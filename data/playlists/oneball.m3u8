@@ -1,1 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="4558579" group-title="#2. LIVE EVENT",Arsenal vs Leeds United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
+#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
+https://pul-tenm.gkykp.com/live/hd-en-1-4558579.m3u8?txSecret=7cc34094efef06151a808f94b2c52764&txTime=6ACACD4A
