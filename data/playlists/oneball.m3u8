@@ -1,26 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4558579" group-title="#2. LIVE EVENT",Arsenal vs Leeds United
+#EXTINF:-1 tvg-id="4558593" group-title="#2. LIVE EVENT",Manchester United vs Tottenham Hotspur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
 #EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://pul-tenm.gkykp.com/live/hd-en-1-4558579.m3u8?txSecret=9fe8279e58df1d121d24140394172d73&txTime=6ACB6169
-#EXTINF:-1 tvg-id="4558581" group-title="#2. LIVE EVENT",Aston Villa vs Brentford
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
-#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://pul-tenm.gkykp.com/live/hd-en-1-4558581.m3u8?txSecret=a9cd5b08d251c4820fa0f4477d75511a&txTime=6ACB6169
-#EXTINF:-1 tvg-id="4558583" group-title="#2. LIVE EVENT",Chelsea vs Bournemouth AFC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
-#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://pul-tenm.gkykp.com/live/hd-en-1-4558583.m3u8?txSecret=62d26b1ae29a166b5c469ad47c9ebafd&txTime=6ACB6169
-#EXTINF:-1 tvg-id="4558589" group-title="#2. LIVE EVENT",Ipswich Town vs Fulham
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
-#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://pul-tenm.gkykp.com/live/hd-en-1-4558589.m3u8?txSecret=337ece94ff8066774dfd47e98add8505&txTime=6ACB6169
-#EXTINF:-1 tvg-id="4558596" group-title="#2. LIVE EVENT",Sunderland vs Brighton Hove Albion
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
-#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
-https://pul-tenm.gkykp.com/live/hd-en-1-4558596.m3u8?txSecret=e162cb54038f33b64d904114c6d11d5f&txTime=6ACB6169
+https://pul-tenm.gkykp.com/live/hd-en-1-4558593.m3u8?txSecret=588f727f0b21c4a933ad3a097dc2c60f&txTime=6ACBB282
