@@ -6,4 +6,28 @@
 <programme start="20261010183000 +0700" stop="20261010203000 +0700" channel="4558579">
   <title>Arsenal vs Leeds United</title>
 </programme>
+<channel id="4558581">
+  <display-name>Aston Villa vs Brentford</display-name>
+</channel>
+<programme start="20261010210000 +0700" stop="20261010230000 +0700" channel="4558581">
+  <title>Aston Villa vs Brentford</title>
+</programme>
+<channel id="4558583">
+  <display-name>Chelsea vs Bournemouth AFC</display-name>
+</channel>
+<programme start="20261010210000 +0700" stop="20261010230000 +0700" channel="4558583">
+  <title>Chelsea vs Bournemouth AFC</title>
+</programme>
+<channel id="4558589">
+  <display-name>Ipswich Town vs Fulham</display-name>
+</channel>
+<programme start="20261010210000 +0700" stop="20261010230000 +0700" channel="4558589">
+  <title>Ipswich Town vs Fulham</title>
+</programme>
+<channel id="4558596">
+  <display-name>Sunderland vs Brighton Hove Albion</display-name>
+</channel>
+<programme start="20261010210000 +0700" stop="20261010230000 +0700" channel="4558596">
+  <title>Sunderland vs Brighton Hove Albion</title>
+</programme>
 </tv>
