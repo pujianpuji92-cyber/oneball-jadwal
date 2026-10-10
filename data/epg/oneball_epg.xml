@@ -1,9 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="4558593">
-  <display-name>Manchester United vs Tottenham Hotspur</display-name>
-</channel>
-<programme start="20261010233000 +0700" stop="20261011013000 +0700" channel="4558593">
-  <title>Manchester United vs Tottenham Hotspur</title>
-</programme>
 </tv>
