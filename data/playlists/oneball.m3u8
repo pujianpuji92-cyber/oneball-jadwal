@@ -1,1 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="4558586" group-title="#2. LIVE EVENT",Crystal Palace vs Nottingham Forest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
+#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
+https://pul-tenm.gkykp.com/live/hd-en-1-4558586.m3u8?txSecret=914bafbdbfd7da4db21f00555472fea7&txTime=6ACC6681
+#EXTINF:-1 tvg-id="4558588" group-title="#2. LIVE EVENT",Hull City vs Everton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://efg8732dsy.luxiang.win/
+#EXTVLCOPT:http-origin=https://efg8732dsy.luxiang.win
+https://pul-tenm.gkykp.com/live/hd-en-1-4558588.m3u8?txSecret=71c8a0f0fbf40f45a001faacb463993b&txTime=6ACC6681
